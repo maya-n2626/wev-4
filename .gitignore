@@ -1,6 +1,7 @@
 # Ignore environment variables
 .env
 
+.node_modules
 
 
 # Logs
